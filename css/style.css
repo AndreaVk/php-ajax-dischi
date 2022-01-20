@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+}
+
+body {
+    background-color: #1e2d3b;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+}
+
+.card-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.box {
+    width: 60%;
+    margin: auto;
+}
+
+
